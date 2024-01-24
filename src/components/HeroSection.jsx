@@ -57,13 +57,13 @@ function HeroSection() {
         <div>
           <img src="https://getir.com/_next/static/images/bimutluluk-b3a7fcb14fc9a9c09b60d7dc9b1b8fd6.svg" />
 
-          <h3 className="text-4xl mt-8 font-semibold text-white">
+          <h3 className="text-4xl mt-8 font-semibold text-white ml-4">
             Dakikalar içinde
             <br /> kapınızda
           </h3>
         </div>
 
-        <div className="w-[400px] rounded-lg bg-gray-50 p-6">
+        <div className="w-[400px] rounded-lg bg-gray-50 p-6 mr-3">
           <h4 className="text-primary-brand-color font-semibold text-center mb-4">
             Giriş yap veya kayıt ol
           </h4>
