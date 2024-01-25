@@ -1,4 +1,4 @@
-import Menu from "./ui/menu";
+import Menu from "./ui/Menu";
 import { FaFacebook } from "react-icons/fa";
 import { FaTwitter } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
