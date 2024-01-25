@@ -120,7 +120,7 @@ function Footer() {
               href="#"
               className="w-8 h-8 text-gray-500 transitions-colors hover:bg-primary-color hover:bg-opacity-10 flex items-center justify-center hover:text-primary-brand-color border rounded border-gray-100"
             >
-              <BiGlobe size={21} />
+              <BiGlobe size={20} />
             </a>
           </nav>
         </div>
