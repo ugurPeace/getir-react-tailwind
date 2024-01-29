@@ -61,7 +61,7 @@ function HeroSection() {
         <div className="hidden md:block">
           <img src="https://getir.com/_next/static/images/bimutluluk-b3a7fcb14fc9a9c09b60d7dc9b1b8fd6.svg" />
 
-          <h3 className="text-4xl mt-8 font-semibold text-white ">
+          <h3 className="text-4xl mt-8 font-semibold px-4 text-white ">
             Replica Web Site <br /> By Ugur
           </h3>
         </div>
