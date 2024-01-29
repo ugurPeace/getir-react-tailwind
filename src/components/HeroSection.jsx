@@ -66,7 +66,7 @@ function HeroSection() {
           </h3>
         </div>
 
-        <div className="w-full md:w-[400px] md:rounded-lg bg-gray-50 p-6 ">
+        <div className="w-full md:w-[400px] md:rounded-lg bg-gray-50 p-6 mr-4 ">
           <h4 className="text-primary-brand-color font-semibold text-center mb-4">
             Giriş yap veya kayıt ol
           </h4>

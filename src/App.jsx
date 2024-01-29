@@ -12,7 +12,7 @@ function App() {
   const windowWidth = useWindowWidth();
 
   return (
-    <>
+    <div className="overflow-x-hidden">
       <Header />
       {windowWidth <= 768 && <Campaigns />}
       <HeroSection />
@@ -24,7 +24,7 @@ function App() {
         <Cards />
       </div>
       <Footer />
-    </>
+    </div>
   );
 }
 

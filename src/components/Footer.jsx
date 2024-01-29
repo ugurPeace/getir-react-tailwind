@@ -69,7 +69,7 @@ function Footer() {
   ];
 
   return (
-    <div className="bg-white mt-10 px-4 pb-10">
+    <div className="bg-white mt-10 px-4 mb-10">
       <div className="container mx-auto px-4 ">
         <div className="grid gap-y-6  md:grid-cols-2 lg:grid-cols-4 pt-5 md:pt-10">
           <section>
